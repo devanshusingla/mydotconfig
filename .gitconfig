@@ -1,0 +1,7 @@
+[user]
+	name = Devanshu Singla
+	email = devanshu803.singla@gmail.com
+[core]
+	editor = vim
+[init]
+	defaultBranch = main
